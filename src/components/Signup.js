@@ -7,13 +7,6 @@ import "firebase/database";
 
 
 var firebaseConfig = {
-  apiKey: "AIzaSyD5O5KdEYTpKVnqokjnG3pregy1KU1tmOk",
-  authDomain: "blimp-8588d.firebaseapp.com",
-  projectId: "blimp-8588d",
-  storageBucket: "blimp-8588d.appspot.com",
-  messagingSenderId: "796691090114",
-  appId: "1:796691090114:web:c2f03c2e883bf17156c95b",
-  measurementId: "G-9ZV16WQX5M"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
